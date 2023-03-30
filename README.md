@@ -1,4 +1,4 @@
-# HORIZON-TechFest-Website
+# HORIZON Technical Festival Website
 This is the website of the HORIZON TechFest of IIIT Vadodara - International Campus Diu 
 
 ## How to run 
@@ -16,6 +16,8 @@ This is the website of the HORIZON TechFest of IIIT Vadodara - International Cam
    node app.js 
        or
    nodemon app.js
+       or 
+   npm start
    ```
    
 4. Frontend
